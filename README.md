@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on basic HTML Projects
 - 🌱 I’m currently learning Javascript with SheCodes
-- 👯 I’m looking to collaborate on Javascript web design projects
+- 👯 I’m looking to collaborate on Javascript/HTML web design projects
 - 🤔 I’m looking for help with building my coding skills
 - 💬 Ask me about games, animation, medicine
 - 📫 How to reach me: malty23412@gmail.com
