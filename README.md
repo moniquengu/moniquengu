@@ -6,7 +6,7 @@
 - 💬 Ask me about games, animation, medicine
 - 📫 How to reach me: malty23412@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I started coding less than a month ago!
+- ⚡ Note: Check my Gists or ProjectSheCodes to see my latest code projects!
 
 <!--
 **moniquengu/moniquengu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
