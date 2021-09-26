@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on basic HTML Projects
+- 🔭 I’m currently working on basic Javascript Project: Weather App
 - 🌱 I’m currently learning Javascript with SheCodes
 - 👯 I’m looking to collaborate on Javascript/HTML web design projects
 - 🤔 I’m looking for help with building my coding skills
